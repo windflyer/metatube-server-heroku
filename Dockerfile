@@ -1,1 +1,1 @@
-FROM javtube/javtube-server:latest
+FROM ghcr.io/metatube-community/metatube-server:latest
